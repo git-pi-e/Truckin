@@ -1,0 +1,289 @@
+greedy_agent1 is starting (Brmmm Brmmm)
+greedy_agent2 is starting (Brmmm Brmmm)
+greedy_agent2 at Parramatta ( 18 ) has $ 1000.000000 and 100.000000 
+Holding: 
+greedy_agent1 at Parramatta ( 18 ) has $ 1000.000000 and 100.000000 
+Holding: 
+Moves remaining: 30
+
+player(greedy_agent2,3000000,100000,20000000,100,18)
+agent_choice(52,31)
+move to buy
+move(greedy_agent2,m,-8)player(greedy_agent1,3000000,100000,20000000,100,18)
+agent_choice(14,17)
+move to buy
+move(greedy_agent1,m,-4)greedy_agent1 at Sony ( 14 ) has $ 1000.000000 and 96.000000 
+Holding: 
+greedy_agent2 at Tooth ( 10 ) has $ 1000.000000 and 92.000000 
+Holding: 
+Moves remaining: 29
+
+Buying
+move(greedy_agent1,t,4)move to buy
+move(greedy_agent2,m,4)Sony (14) now has 5271.000000 of TVs to sell at $ 239.200000.0.000000 
+greedy_agent1 at Sony ( 14 ) has $ 43.200000 and 96.000000 
+Holding: [ 4.000000 of TVs], 
+greedy_agent2 at Sony ( 14 ) has $ 1000.000000 and 88.000000 
+Holding: 
+Moves remaining: 28
+
+move to sell
+move(greedy_agent1,m,3)Buying
+move(greedy_agent2,t,4)Sony (14) now has 5267.000000 of TVs to sell at $ 239.200000.0.000000 
+greedy_agent2 at Sony ( 14 ) has $ 43.200000 and 88.000000 
+Holding: [ 4.000000 of TVs], 
+greedy_agent1 at ESR ( 17 ) has $ 43.200000 and 93.000000 
+Holding: [ 4.000000 of TVs], 
+Moves remaining: 27
+
+move to sell
+move(greedy_agent2,m,3)selling
+move(greedy_agent1,t,4)ESR (17) will now buy 1010.000000 of TVs for $ 482.560000.0.000000 
+greedy_agent1 at ESR ( 17 ) has $ 1973.440000 and 93.000000 
+Holding: 
+greedy_agent2 at ESR ( 17 ) has $ 43.200000 and 85.000000 
+Holding: [ 4.000000 of TVs], 
+Moves remaining: 26
+
+player(greedy_agent1,3005250,197344,20000000,93,17)
+agent_choice(14,17)
+move to buy
+move(greedy_agent1,m,-3)selling
+move(greedy_agent2,t,4)ESR (17) will now buy 1006.000000 of TVs for $ 482.560000.0.000000 
+greedy_agent2 at ESR ( 17 ) has $ 1973.440000 and 85.000000 
+Holding: 
+greedy_agent1 at Sony ( 14 ) has $ 1973.440000 and 90.000000 
+Holding: 
+Moves remaining: 25
+
+player(greedy_agent2,3011250,197344,20000000,85,17)
+agent_choice(55,36)
+move to buy
+move(greedy_agent2,m,-8)move to buy
+move(greedy_agent1,m,-8)greedy_agent1 at Deli ( 6 ) has $ 1973.440000 and 82.000000 
+Holding: 
+greedy_agent2 at DE ( 9 ) has $ 1973.440000 and 77.000000 
+Holding: 
+Moves remaining: 24
+
+move to buy
+move(greedy_agent1,m,-8)move to buy
+move(greedy_agent2,m,-8)greedy_agent2 at Tyrrels ( 1 ) has $ 1973.440000 and 69.000000 
+Holding: 
+greedy_agent1 at Men at work ( 62 ) has $ 1973.440000 and 74.000000 
+Holding: 
+Moves remaining: 23
+
+move to buy
+move(greedy_agent2,m,-8)move to buy
+move(greedy_agent1,m,-7)greedy_agent1 at John Fairfax ( 55 ) has $ 1973.440000 and 67.000000 
+Holding: 
+greedy_agent2 at DEC ( 57 ) has $ 1973.440000 and 61.000000 
+Holding: 
+Moves remaining: 22
+
+Buying
+move(greedy_agent1,t,88)move to buy
+move(greedy_agent2,m,-2)John Fairfax (55) now has 649512.000000 of Newspapers to sell at $ 0.150000.0.000000 
+greedy_agent1 at John Fairfax ( 55 ) has $ 1960.240000 and 67.000000 
+Holding: [ 88.000000 of Newspapers], 
+greedy_agent2 at John Fairfax ( 55 ) has $ 1973.440000 and 59.000000 
+Holding: 
+Moves remaining: 21
+
+move to sell
+move(greedy_agent1,m,-8)Buying
+move(greedy_agent2,t,88)John Fairfax (55) now has 649424.000000 of Newspapers to sell at $ 0.150000.0.000000 
+greedy_agent2 at John Fairfax ( 55 ) has $ 1960.240000 and 59.000000 
+Holding: [ 88.000000 of Newspapers], 
+greedy_agent1 at Fresh Eggs ( 47 ) has $ 1960.240000 and 59.000000 
+Holding: [ 88.000000 of Newspapers], 
+Moves remaining: 20
+
+move to sell
+move(greedy_agent2,m,-8)move to sell
+move(greedy_agent1,m,-8)greedy_agent1 at Rank Arena ( 39 ) has $ 1960.240000 and 51.000000 
+Holding: [ 88.000000 of Newspapers], 
+greedy_agent2 at Fresh Eggs ( 47 ) has $ 1960.240000 and 51.000000 
+Holding: [ 88.000000 of Newspapers], 
+Moves remaining: 19
+
+move to sell
+move(greedy_agent1,m,-3)move to sell
+move(greedy_agent2,m,-8)greedy_agent2 at Rank Arena ( 39 ) has $ 1960.240000 and 43.000000 
+Holding: [ 88.000000 of Newspapers], 
+greedy_agent1 at Paper Stand ( 36 ) has $ 1960.240000 and 48.000000 
+Holding: [ 88.000000 of Newspapers], 
+Moves remaining: 18
+
+move to sell
+move(greedy_agent2,m,-3)selling
+move(greedy_agent1,t,88)Paper Stand (36) will now buy 0.000000 of Newspapers for $ 0.200000.0.000000 
+greedy_agent1 at Paper Stand ( 36 ) has $ 1977.840000 and 48.000000 
+Holding: 
+greedy_agent2 at Paper Stand ( 36 ) has $ 1960.240000 and 40.000000 
+Holding: [ 88.000000 of Newspapers], 
+Moves remaining: 17
+
+player(greedy_agent1,3039000,197784,20000000,48,36)
+agent_choice(39,46)
+move to buy
+move(greedy_agent1,m,3)move to sell
+move(greedy_agent2,m,8)greedy_agent2 at Palermo Fruit ( 44 ) has $ 1960.240000 and 32.000000 
+Holding: [ 88.000000 of Newspapers], 
+greedy_agent1 at Rank Arena ( 39 ) has $ 1977.840000 and 45.000000 
+Holding: 
+Moves remaining: 16
+
+Move to fuel
+move(greedy_agent2,m,8)Buying
+move(greedy_agent1,t,7)Rank Arena (39) now has 3032.000000 of TVs to sell at $ 250.000000.0.000000 
+greedy_agent1 at Rank Arena ( 39 ) has $ 227.840000 and 45.000000 
+Holding: [ 7.000000 of TVs], 
+greedy_agent2 at Perth Mint ( 52 ) has $ 1960.240000 and 24.000000 
+Holding: [ 88.000000 of Newspapers], 
+Moves remaining: 15
+
+move to sell
+move(greedy_agent1,m,7)Move to fuel
+move(greedy_agent2,m,8)greedy_agent2 at Prentice-Hall ( 60 ) has $ 1960.240000 and 16.000000 
+Holding: [ 88.000000 of Newspapers], 
+greedy_agent1 at Norman Ross ( 46 ) has $ 227.840000 and 38.000000 
+Holding: [ 7.000000 of TVs], 
+Moves remaining: 14
+
+Move to fuel
+move(greedy_agent2,m,3)selling
+move(greedy_agent1,t,7)Norman Ross (46) will now buy 679.000000 of TVs for $ 390.730000.0.000000 
+greedy_agent1 at Norman Ross ( 46 ) has $ 2962.950000 and 38.000000 
+Holding: 
+greedy_agent2 at Exxon ( 63 ) has $ 1960.240000 and 13.000000 
+Holding: [ 88.000000 of Newspapers], 
+Moves remaining: 13
+
+player(greedy_agent1,3046500,296295,20000000,38,46)
+agent_choice(58,32)
+move to buy
+move(greedy_agent1,m,8)Buy fuel
+Buy fuel
+move(greedy_agent2,t,100)Exxon (63) now has 760.000000 of Fuel to sell at $ 0.440000.0.000000 
+greedy_agent2 at Exxon ( 63 ) has $ 1921.960000 and 100.000000 
+Holding: [ 88.000000 of Newspapers], 
+greedy_agent1 at Chez Pierre ( 54 ) has $ 2962.950000 and 30.000000 
+Holding: 
+Moves remaining: 12
+
+move to sell
+move(greedy_agent2,m,-8)Move to fuel
+move(greedy_agent1,m,8)greedy_agent1 at Men at work ( 62 ) has $ 2962.950000 and 22.000000 
+Holding: 
+greedy_agent2 at John Fairfax ( 55 ) has $ 1921.960000 and 92.000000 
+Holding: [ 88.000000 of Newspapers], 
+Moves remaining: 11
+
+Move to fuel
+move(greedy_agent1,m,1)move to sell
+move(greedy_agent2,m,-8)greedy_agent2 at Fresh Eggs ( 47 ) has $ 1921.960000 and 84.000000 
+Holding: [ 88.000000 of Newspapers], 
+greedy_agent1 at Exxon ( 63 ) has $ 2962.950000 and 21.000000 
+Holding: 
+Moves remaining: 10
+
+move to sell
+move(greedy_agent2,m,-8)Buy fuel
+move(greedy_agent1,t,80)Exxon (63) now has 681.000000 of Fuel to sell at $ 0.440000.0.000000 
+greedy_agent1 at Exxon ( 63 ) has $ 2928.190000 and 100.000000 
+Holding: 
+greedy_agent2 at Rank Arena ( 39 ) has $ 1921.960000 and 76.000000 
+Holding: [ 88.000000 of Newspapers], 
+Moves remaining: 9
+
+player(greedy_agent1,3000000,292819,19921000,100,63)
+agent_choice(58,32)
+move to buy
+move(greedy_agent1,m,-5)move to sell
+move(greedy_agent2,m,-7)greedy_agent2 at Angus+Coote ( 32 ) has $ 1921.960000 and 69.000000 
+Holding: [ 88.000000 of Newspapers], 
+greedy_agent1 at DeBeers ( 58 ) has $ 2928.190000 and 95.000000 
+Holding: 
+Moves remaining: 8
+
+selling
+move to sell
+move(greedy_agent2,m,0)Buying
+move(greedy_agent1,t,28)DeBeers (58) now has 91.000000 of Diamonds to sell at $ 103.200000.0.000000 
+greedy_agent1 at DeBeers ( 58 ) has $ 38.590000 and 95.000000 
+Holding: [ 28.000000 of Diamonds], 
+greedy_agent2 at Angus+Coote ( 32 ) has $ 1921.960000 and 69.000000 
+Holding: [ 88.000000 of Newspapers], 
+Moves remaining: 7
+
+move to sell
+move(greedy_agent1,m,-8)selling
+move to sell
+move(greedy_agent2,m,0)greedy_agent2 at Angus+Coote ( 32 ) has $ 1921.960000 and 69.000000 
+Holding: [ 88.000000 of Newspapers], 
+greedy_agent1 at UNSW ( 50 ) has $ 38.590000 and 87.000000 
+Holding: [ 28.000000 of Diamonds], 
+Moves remaining: 6
+
+selling
+move to sell
+move(greedy_agent2,m,0)move to sell
+move(greedy_agent1,m,-8)greedy_agent1 at Addison Wesley ( 42 ) has $ 38.590000 and 79.000000 
+Holding: [ 28.000000 of Diamonds], 
+greedy_agent2 at Angus+Coote ( 32 ) has $ 1921.960000 and 69.000000 
+Holding: [ 88.000000 of Newspapers], 
+Moves remaining: 5
+
+move to sell
+move(greedy_agent1,m,-8)selling
+move to sell
+move(greedy_agent2,m,0)greedy_agent2 at Angus+Coote ( 32 ) has $ 1921.960000 and 69.000000 
+Holding: [ 88.000000 of Newspapers], 
+greedy_agent1 at Axle check ( 34 ) has $ 38.590000 and 71.000000 
+Holding: [ 28.000000 of Diamonds], 
+Moves remaining: 4
+
+selling
+move to sell
+move(greedy_agent2,m,0)move to sell
+move(greedy_agent1,m,-2)greedy_agent1 at Angus+Coote ( 32 ) has $ 38.590000 and 69.000000 
+Holding: [ 28.000000 of Diamonds], 
+greedy_agent2 at Angus+Coote ( 32 ) has $ 1921.960000 and 69.000000 
+Holding: [ 88.000000 of Newspapers], 
+Moves remaining: 3
+
+selling
+move(greedy_agent1,t,28)selling
+move to sell
+move(greedy_agent2,m,0)Angus+Coote (32) will now buy 178.000000 of Diamonds for $ 347.520000.0.000000 
+greedy_agent1 at Angus+Coote ( 32 ) has $ 9769.150000 and 69.000000 
+Holding: 
+greedy_agent2 at Angus+Coote ( 32 ) has $ 1921.960000 and 69.000000 
+Holding: [ 88.000000 of Newspapers], 
+Moves remaining: 2
+
+Needs to go home
+move(greedy_agent1,m,-2)Needs to go home
+move(greedy_agent2,m,-2)greedy_agent2 at Alices ( 30 ) has $ 1921.960000 and 67.000000 
+Holding: [ 88.000000 of Newspapers], 
+greedy_agent1 at Alices ( 30 ) has $ 9769.150000 and 67.000000 
+Holding: 
+Moves remaining: 1
+
+Needs to go home
+move(greedy_agent2,m,0)Needs to go home
+move(greedy_agent1,m,0)greedy_agent1 at Alices ( 30 ) has $ 9769.150000 and 67.000000 
+Holding: 
+greedy_agent2 at Alices ( 30 ) has $ 1921.960000 and 67.000000 
+Holding: [ 88.000000 of Newspapers], 
+Moves remaining: 0
+
+greedy_agent1 finished at Alices  with $ 9769.150000
+greedy_agent2 finished at Alices  with $ 1921.960000
+
+
+---FINISHED---
+
+

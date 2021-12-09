@@ -66,7 +66,7 @@ find_best_item2(BestSeller, BestBuyer):-
 				min_list([floor(Quantity1),floor(Quantity2),floor(OurLim)], Quantity),
 				PriceDiff is Quantity*(Price2 - Price1),
 				FReqd is min(abs(Place1-Where), abs(64+Where-Place1))+min(abs(Place2-Place1), abs(64-Place2+Place1)),
-				Ratio is PriceDiff/FReqd
+				Ratio is (2.5*PriceDiff+1.5*FReqd)/(2.5*PriceDiff-1.5*FReqd)
 		),
 		PPList
 	),

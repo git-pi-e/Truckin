@@ -1,0 +1,4 @@
+"Wins: 33/100"
+"Draws: 0/100"
+"Losses: 67/100"
+"Accuracy: 33.0"
